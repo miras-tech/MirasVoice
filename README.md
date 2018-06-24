@@ -32,7 +32,7 @@ and which province they grew up in.
 The audio data has been recorded using a microphone with a sample rate of 48kHz, a frequency response of 20Hz to 20kHz, a max Sound
 Pressure Level (SPL) of 120db and a bit rate of 16 bits.
 
-If you want more information about MirasVoice, you can read the paper [here](http://www.lrec-conf.org/proceedings/lrec2018/pdf/443.pdf). 
+If you want to know more information about MirasVoice, you can read the paper [here](http://www.lrec-conf.org/proceedings/lrec2018/pdf/443.pdf). 
 
 
 ## Corpus Applications

@@ -3,7 +3,7 @@ This repository contains  a sample of the MirasVoice corpus and description.
 A sample of the dataset contains 100 minutes of English and Farsi voices (both males and females). 
 It is uploaded in google drive and you can download 
  it [here](https://drive.google.com/drive/folders/1rCY5ykTl6Y1QQS5Wbd9t3_cfh1nbkeqg?usp=sharing).  
-In order to use the complete dataset and text materials you need to submit a request to amir@miras-tech.com.
+In order to use the complete dataset and text materials you need to submit a request to amir.vaheb@gmail.com.
 
 ## MirasVoice Description
 
